@@ -15,3 +15,21 @@ future            : true
 baseurl           : https://dms-g.github.io/
 port              : 443
 livereload        : true
+
+
+defaults:
+  - scope:
+      path: ""
+      type      : default
+    values:
+      layout    : default
+      toc       : false 
+      permalink : /:title/
+  - scope:
+      path      : "_posts"
+      type      : posts
+    values:
+      layout    : post
+      toc       : true 
+      permalink : /posts/:title/
+  
