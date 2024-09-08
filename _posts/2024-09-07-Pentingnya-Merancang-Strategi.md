@@ -1,6 +1,7 @@
 ---
 title: Pentingnya Merancang Strategi
-description: Membahas kalimat Abraham Lincoln, yang berbunyi "Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
+description: Bahas quoaes Abraham Lincoln
+tags: [Self Development]
 ---
 Yo, apa kabar guys! Udah pada tau kan quotes yang sering banget diulang-ulang sama orang-orang sukses itu? Yang bunyinya gini nih: "Give me six hours to chop down a tree and I will spend the first four sharpening the axe." Apa sih maksudnya tuh? Kenapa gak langsung tebang aja pohonnya? Kok malah buang-buang waktu ngasah kapak? Nah, hari ini kita bakal ngebahas quote ini sampe akar-akarnya. Siap-siap aja, bakal ada banyak plot twist!
 

@@ -3,7 +3,8 @@ plugins           : [jekyll-remote-theme, jekyll-feed]
 
 title             : dms-g
 description       : just human with nothing to do
-lang              : eng
+author            : dms
+lang              : en
 timezone          : Asia/Jakarta
 show_downloads    : false
 encoding          : utf-8
@@ -11,7 +12,8 @@ show_drafts       : false
 future            : true
 port              : 443
 livereload        : true
-
+exclude           : [_config.yml, _docs, README.md, _drafts]
+show_drafts       : false
 
 defaults:
   - scope:
