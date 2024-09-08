@@ -3,14 +3,12 @@ plugins           : [jekyll-remote-theme, jekyll-feed]
 
 title             : dms-g
 description       : just human with nothing to do
+lang              : eng
 timezone          : Asia/Jakarta
 show_downloads    : false
-disable_disk_cache: false
-exclude           : [_config.yml, _docs, README.md]
 encoding          : utf-8
-show_drafts       : false
+show_drafts       : false 
 future            : true
-baseurl           : https://dms-g.github.io/
 port              : 443
 livereload        : true
 
