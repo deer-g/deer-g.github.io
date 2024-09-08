@@ -8,7 +8,7 @@ description       : just human with nothing to do
 timezone          : Asia/Jakarta
 show_downloads    : false
 disable_disk_cache: false
-exclude           : [_config.yml]
+exclude           : [_config.yml, _docs, README.md]
 encoding          : utf-8
 show_drafts       : false
 future            : true
