@@ -3,13 +3,13 @@ title: "Quarter Life Crisis: Emangnya Lu Doang yang Galau?"
 description: Opini tentang Quarter Life Crisis.
 tags: [Self Development]
 ---
-Eh bro, sis! Lu pernah nggak sih ngerasa hidup tuh kayak roller coaster yang rusak? Naik-turun nggak jelas, muter-muter nggak karuan, terus tiba-tiba macet di puncak. Anjir, panik kan? Nah, itulah yang namanya quarter life crisis, sob!
+Eh guys! Lu pernah nggak sih ngerasa hidup tuh kayak roller coaster yang rusak? Naik-turun nggak jelas, muter-muter nggak karuan, terus tiba-tiba macet di puncak. Anjir, panik kan? Nah, itulah yang namanya quarter life crisis, sob!
 
 ## Apaan sih Quarter Life Crisis Itu?
 
 Quarter life crisis tuh kayak alarm jam 3 pagi yang bunyi pas lu lagi enak-enaknya mimpi jadi presiden. Ganggu banget, bikin lu bangun dan sadar kalo hidup nggak seindah di TikTok. Biasanya nih, krisis ini nyerang pas umur 20-an sampe 30-an awal. Masa-masa di mana lu harusnya udah "mapan" tapi malah makin bingung mau ngapain sama hidup lu.
 
-Coba deh bayangin, lu udah lulus sekolah atau kuliah, udah kerja, tapi kok rasanya ada yang kurang ya? Kayak makan nasi uduk tanpa kerupuk, hambar bro! Lu mulai nanya ke diri sendiri:
+Coba deh bayangin, lu udah lulus sekolah atau kuliah, udah kerja, tapi kok rasanya ada yang kurang ya? Kayak makan nasi uduk tanpa kerupuk, hambar guys! Lu mulai nanya ke diri sendiri:
 
 1. "Gue udah bener belom sih ambil jurusan ini?"
 2. "Kok kerjaan gue nggak se-keren feed Instagram influencer ya?"
@@ -41,7 +41,7 @@ Nah, sekarang gue kasih tau nih tanda-tanda lu kena quarter life crisis. Kalo lu
 
 1. **Overthinking mulu**: Otak lu tuh udah kayak mesin cuci, muter-muter tanpa henti. Dari mikirin masa depan sampe nyesel sama masa lalu. Capek sendiri kan jadinya?
 
-2. **Imposter syndrome**: Lu ngerasa kayak penipu gitu di kantor. Padahal kerja udah keras, tapi tetep aja ngerasa nggak pantes dapet posisi lu sekarang. Eh bro, inget ya, lu tuh lebih jago dari yang lu kira!
+2. **Imposter syndrome**: Lu ngerasa kayak penipu gitu di kantor. Padahal kerja udah keras, tapi tetep aja ngerasa nggak pantes dapet posisi lu sekarang. Eh guys, inget ya, lu tuh lebih jago dari yang lu kira!
 
 3. **FOMO parah**: Fear Of Missing Out nih maksudnya. Tiap liat story temen yang lagi liburan ke Bali, lu langsung pengen ikutan. Padahal dompet cuma isi kartu ATM doang.
 

@@ -61,7 +61,7 @@ Awalnya mungkin susah, pikiran lu bakal kemana-mana. Tapi lama-lama, lu bakal bi
 
 ## Plot Twist: Ternyata Mengenal Diri Itu Proses Seumur Hidup
 
-Nah, ini nih yang sering bikin orang frustrasi. Mereka pikir sekali udah kenal diri, ya udah beres. Padahal bro, sis, mengenal diri tuh proses yang gak ada abisnya. Kita tuh berubah terus, jadi ya wajar aja kalau pemahaman kita tentang diri sendiri juga berubah.
+Nah, ini nih yang sering bikin orang frustrasi. Mereka pikir sekali udah kenal diri, ya udah beres. Padahal guys, mengenal diri tuh proses yang gak ada abisnya. Kita tuh berubah terus, jadi ya wajar aja kalau pemahaman kita tentang diri sendiri juga berubah.
 
 Jadi, jangan stress kalau ternyata lu ngerasa gak konsisten. Misalnya, dulu lu suka banget sama K-pop, tapi sekarang malah sukanya dangdut koplo. It's okay! Namanya juga manusia, berubah itu wajar.
 
@@ -77,4 +77,4 @@ Dan hey, kalau di tengah jalan lu ngerasa bingung atau lost, it's okay! Namanya 
 
 Eh, sebelom lu cabut, gue mau ingetin nih. Artikel ini cuma opini gue doang ya, based on pengalaman dan pengetahuan yang gue punya. Jadi, jangan ditelan mentah-mentah. Tetep kritis dan pikirin baik-baik. Kalau ada yang gak cocok sama lu, ya gak usah dipaksain. Remember, lu yang paling tau tentang diri lu sendiri. Jadi, use this article as a guide, bukan sebagai aturan yang harus diikutin. 
 
-Oke deh, sekian dari gue. Semoga artikel ini bisa bantu lu buat mulai perjalanan mengenal diri sendiri. Goodluck ya bro, sis! Semoga lu bisa nemuin versi terbaik dari diri lu sendiri. Cheers!
+Oke deh, sekian dari gue. Semoga artikel ini bisa bantu lu buat mulai perjalanan mengenal diri sendiri. Goodluck ya guys! Semoga lu bisa nemuin versi terbaik dari diri lu sendiri. Cheers!

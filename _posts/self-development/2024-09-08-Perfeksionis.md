@@ -27,10 +27,9 @@ Nah, sebelum kita ngehujat habis-habisan, yuk kita lihat dulu sisi positifnya:
 
 ## Sisi Negatif yang Bikin Geleng-geleng Kepala
 
-Tapi jangan seneng dulu, sob! Jadi perfeksionis juga punya sisi gelap yang bisa bikin hidup lu jadi drama Korea:
+Tapi jangan seneng dulu, guys! Jadi perfeksionis juga punya sisi gelap yang bisa bikin hidup lu jadi drama Korea:
 
 1. **Stress Level Dewa**: Bayangin aja, tiap hari lu ngejar kesempurnaan yang sebenernya ga ada. Capek ga tuh? Ya jelas capek lah! Stress level lu bisa naik kayak harga bensin.
-
 2. **Procrastination Jadi Sahabat**: Ironis emang, tapi perfeksionis sering jadi raja/ratu prokrastinasi. Kenapa? Karena takut hasilnya ga sempurna, jadi mending ga dikerjain sekalian. Anjir kan?
 
 3. **Susah Move On dari Kesalahan**: Kalo udah bikin kesalahan, wah... bisa berhari-hari mikirin itu doang. Padahal yang lain udah lupa, tapi perfeksionis masih kepikiran terus.
