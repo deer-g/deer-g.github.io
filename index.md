@@ -4,14 +4,15 @@ permalink: index.html
 ---
 
 ## Latest posts:
+### - 2024-09-10 | [Ngejudge Value Orang: Emang Lu Siapa?](_posts/self-development/2024-09-10-Ngejudge-Value-Orang.md)
 ### - 2024-09-10 | [Hidup Kok Gini Sih? Ngomongin Ketidakadilan yang Bikin Kita Geleng-geleng Kepala](_posts/self-development/2024-09-10-Ketidakadilan-Hidup.md)
 ### - 2024-09-10 | [Belajar Bahasa Asing: Lebih dari Sekadar Keterampilan](_posts/self-development/2024-09-10-Belajar-Bahasa-Asing.md)
 ### - 2024-09-09 | [A05:2021-Security Misconfiguration: Ketika Sistem Lu Gak Dikunci Rapet](_posts/_posts/self-development/2024-09-10-Belajar-Bahasa-Asing.md)
-### - 2024-09-09 | [A04:2021-Insecure Design: Bikin Aplikasi Lu Bolong Kayak Kolor Anak Kos!](_posts/security/2024-09-09-Insecure-Design.md)
 
 ---
 
 ## Tags _Self Development_:
+### - 2024-09-10 | [Ngejudge Value Orang: Emang Lu Siapa?](_posts/self-development/2024-09-10-Ngejudge-Value-Orang.md)
 ### - 2024-09-10 | [Hidup Kok Gini Sih? Ngomongin Ketidakadilan yang Bikin Kita Geleng-geleng Kepala](_posts/self-development/2024-09-10-Ketidakadilan-Hidup.md)
 ### - 2024-09-10 | [Belajar Bahasa Asing: Lebih dari Sekadar Keterampilan](_posts/self-development/2024-09-10-Belajar-Bahasa-Asing.md)
 ### - 2024-09-08 | [Mengenal Diri Sendiri: Perjalanan Seru yang Bikin Pusing](_posts/self-development/2024-09-08-Mengenal-Diri-Sendiri.md)
