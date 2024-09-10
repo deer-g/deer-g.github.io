@@ -75,7 +75,5 @@ Tapi ya inget, artikel ini cuma buat gambaran umum aja. Kalo lo beneran mau nged
 
 Akhir kata, jaga data lo kayak lo jaga doi. Soalnya kalo udah bocor, bisa lebih nyesek daripada diputusin. Salam aman digital!
 
----
-
 **Peringatan Penutup**: 
 Yo, sebelum lu cabut, inget ya bahwa artikel ini cuma pengetahuan gue berdasarkan penelitian yang ada. Jangan ditelan mentah-mentah! Tetep kritis dan cari tau lebih banyak dari sumber lain. Dan yang paling penting, jangan jadi parno berlebihan. Yang penting waspada dan pinter-pinter jaga data. Oke? Stay safe, guys!
