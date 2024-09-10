@@ -39,7 +39,7 @@ Nah, sekarang kita udah mulai ngerti nih maksudnya. Tapi sebenernya, quote ini t
 
 1. **Persiapan is the key:** Lu mau sukses? Persiapan yang mateng adalah kuncinya. Gak ada tuh namanya sukses mendadak. Kalo ada, itu namanya hoki doang, gak sustainable!
 
-2. **Efisiensi, bro!:** Dengan persiapan yang mateng, lu bisa nyelesein tugas dengan lebih efisien. Ingat ya, efisien tuh beda sama cepet. Efisien artinya lu pake sumber daya (waktu, tenaga, duit) seoptimal mungkin.
+2. **Efisiensi, guys!:** Dengan persiapan yang mateng, lu bisa nyelesein tugas dengan lebih efisien. Ingat ya, efisien tuh beda sama cepet. Efisien artinya lu pake sumber daya (waktu, tenaga, duit) seoptimal mungkin.
 
 3. **Kualitas > Kecepatan:** Mending hasilnya bagus tapi agak lama, daripada cepet tapi hasilnya ecek-ecek. Inget, kualitas tuh yang bakal bikin lu diinget orang!
 
