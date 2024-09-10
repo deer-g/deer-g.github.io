@@ -39,14 +39,14 @@ Ada alasan lain gak? Ada dong!
 
 3. **Mengasah Otak**
    
-   Seperti yanh dijelasin sebelumnya. Ada studi yang bilang kalo belajar bahasa asing bisa bikin otak kita lebih tajam. Ini kayak ngegym untuk otak, guys! Belajar bahasa bikin kemampuan berpikir dan memecahkan masalah kita meningkat. Selain itu, ada juga yang bilang belajar bahasa bisa mengurangi risiko penyakit Alzheimer. Lumayan kan, dua manfaat dalam satu usaha?
+   Seperti yang sudah dijelasin sebelumnya. Ada studi yang bilang kalo belajar bahasa asing bisa bikin otak kita lebih tajam. Ini kayak ngegym untuk otak, guys! Belajar bahasa bikin kemampuan berpikir dan memecahkan masalah kita meningkat. Selain itu, ada juga yang bilang belajar bahasa bisa mengurangi risiko penyakit Alzheimer. Lumayan kan, dua manfaat dalam satu usaha?
 
 ### Sakitnya Belajar Bahasa Asing
-Gue nggak akan bohong sama lo, belajar bahasa asing tuh kadang bikin kepala nyut-nyutan. Apalagi kalau lo ngikutin aturan-aturan grammar yang bikin puyeng. Gue dulu pernah coba belajar bahasa Jepang. Anjir, ribet banget sumpah. Beda banget sama bahasa Indonesia yang cuma tinggal ngomong aja. Bahasa Jepang tuh kayak lo harus hafalin rumus matematika tiap kali mau ngomong. Yang ada malah pusing, guys.
+Gue nggak akan bohong sama lo, belajar bahasa asing tuh kadang bikin kepala nyut-nyutan. Apalagi kalau lo ngikutin aturan-aturan grammar yang bikin puyeng. Gue pernah coba belajar bahasa Jepang. Anjir, ribet banget sumpah. Beda banget sama bahasa Indonesia yang cuma tinggal ngomong aja. Bahasa Jepang tuh kayak lo harus hafalin rumus matematika tiap kali mau ngomong. Yang ada malah pusing, guys.
 
 Tapi di situlah tantangannya. Lo kayak lagi main game level tinggi yang butuh strategi. Di awal emang susah, tapi pas lo udah mulai ngerti dan bisa, rasanya puas banget. Kayak abis nyelesain boss fight di game RPG. Dan lo tau, perasaan puas ini tuh bikin lo semangat buat terus belajar.
 
-Belajar bahasa asing itu enggak semudah yang dibayangin. Lu mungkin bakal nemuin berbagai tantangan:
+Belajar bahasa asing itu enggak semudah yang dibayangin. Lu mungkin bakal nemuin berbagai tantangan seperti:
 
 1. **Grammar yang Ribet**
 
