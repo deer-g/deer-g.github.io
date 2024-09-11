@@ -86,4 +86,4 @@ Yang paling penting, jangan lupa bahagia! Karena hidup yang bahagia itu jauh leb
 
 ### Peringatan Penutup
 
-Eh, btw ini cuma opini gue ya sob. Jangan ditelan mentah-mentah. Tetep kritis dan pake logika lu sendiri. Kalo ada yang ga setuju, ya gapapa. Namanya juga opini, beda-beda itu wajar. Yang penting, jangan lupa have fun dalam hidup! Peace out!
+Eh, btw ini cuma opini gue ya guys. Jangan ditelan mentah-mentah. Tetep kritis dan pake logika lu sendiri. Kalo ada yang ga setuju, ya gapapa. Namanya juga opini, beda-beda itu wajar. Yang penting, jangan lupa have fun dalam hidup! Peace out!

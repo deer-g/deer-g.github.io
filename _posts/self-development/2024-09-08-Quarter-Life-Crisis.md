@@ -3,7 +3,7 @@ title: "Quarter Life Crisis: Emangnya Lu Doang yang Galau?"
 description: Opini tentang Quarter Life Crisis.
 tags: [Self Development]
 ---
-Eh guys! Lu pernah nggak sih ngerasa hidup tuh kayak roller coaster yang rusak? Naik-turun nggak jelas, muter-muter nggak karuan, terus tiba-tiba macet di puncak. Anjir, panik kan? Nah, itulah yang namanya quarter life crisis, sob!
+Eh guys! Lu pernah nggak sih ngerasa hidup tuh kayak roller coaster yang rusak? Naik-turun nggak jelas, muter-muter nggak karuan, terus tiba-tiba macet di puncak. Anjir, panik kan? Nah, itulah yang namanya quarter life crisis, guys!
 
 ## Apaan sih Quarter Life Crisis Itu?
 
@@ -17,7 +17,7 @@ Coba deh bayangin, lu udah lulus sekolah atau kuliah, udah kerja, tapi kok rasan
 4. "Jomblo mulu nih, jangan-jangan gue bakal jadi om-om/tante-tante kucing?"
 5. "Kapan nih bisa banggain ortu? Apa gue bakal gini terus seumur hidup"
 
-Nah lho, mulai deh overthinking. Padahal ya sob, lu nggak sendirian kok. Banyak anak muda yang ngalamin hal yang sama. Cuma ya gitu, di sosmed pada pamer kebahagiaan mulu, jadi lu ngerasa kayak cuma lu doang yang hidup nggak beres.
+Nah lho, mulai deh overthinking. Padahal ya guys, lu nggak sendirian kok. Banyak anak muda yang ngalamin hal yang sama. Cuma ya gitu, di sosmed pada pamer kebahagiaan mulu, jadi lu ngerasa kayak cuma lu doang yang hidup nggak beres.
 
 ## Kenapa Sih Bisa Kena Quarter Life Crisis?
 
@@ -49,7 +49,7 @@ Nah, sekarang gue kasih tau nih tanda-tanda lu kena quarter life crisis. Kalo lu
 
 5. **Ngerasa stuck**: Hidup lu tuh kayak macet di tol ya. Pengen maju tapi nggak bisa-bisa. Pengen pindah jalur tapi takut malah tambah lama. Yah, akhirnya diem aja deh sambil scroll TikTok.
 
-6. **Komparasi level dewa**: Lu jadi ahli banget ngebandingin hidup lu sama orang lain. Padahal ya sob, hidup tuh bukan lomba lari. Ini maraton, santai aja jalannya.
+6. **Komparasi level dewa**: Lu jadi ahli banget ngebandingin hidup lu sama orang lain. Padahal ya guys, hidup tuh bukan lomba lari. Ini maraton, santai aja jalannya.
 
 7. **Mood swing**: Hari ini semangat 45 pengen kuasai dunia, besoknya males banget pengen hibernasi setahun. Naik turun mood lu udah kayak chart Bitcoin aja.
 
@@ -88,7 +88,7 @@ Inget ya, Steve Jobs aja dulu sempet nganggur dan bingung mau ngapain sebelum ak
 
 ## Kesimpulan: So... What's Next?
 
-Jadi nih ya sob, quarter life crisis emang bikin pusing. Tapi bukan berarti ini akhir dari segalanya. Anggep aja ini kayak upgrade system di HP lu. Awalnya sih ribet, tapi abis itu bakal jalan lebih lancar (semoga).
+Jadi nih ya guys, quarter life crisis emang bikin pusing. Tapi bukan berarti ini akhir dari segalanya. Anggep aja ini kayak upgrade system di HP lu. Awalnya sih ribet, tapi abis itu bakal jalan lebih lancar (semoga).
 
 Yang penting, jangan lupa untuk:
 
@@ -100,6 +100,6 @@ Dan yang paling penting: inget bahwa lu nggak sendirian. We're all in this toget
 
 ## Peringatan Penutup
 
-Eh, btw. Ini cuma opini gue ya sob. Gue bukan psikolog atau life coach. Gue cuma anak quarter life crisis yang kebetulan bisa nulis aja. Jadi, take it with a grain of salt. Kalo emang ngerasa perlu bantuan profesional, ya jangan ragu buat cari. Mental health itu penting, jangan disepelekan.
+Eh, btw. Ini cuma opini gue ya guys. Gue bukan psikolog atau life coach. Gue cuma anak quarter life crisis yang kebetulan bisa nulis aja. Jadi, take it with a grain of salt. Kalo emang ngerasa perlu bantuan profesional, ya jangan ragu buat cari. Mental health itu penting, jangan disepelekan.
 
 Dan buat lu yang udah baca sampe sini... Wow, lu sabar banget ya? Atau jangan-jangan lu lagi procrastinate dan nggak tau mau ngapain? Haha, sama dong. Yuk ah, balik kerja atau belajarnya. Semangat ngadepin quarter life crisis-nya ya! Remember, we're all gonna make it... someday.

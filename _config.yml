@@ -6,7 +6,6 @@ description       : just human with nothing to do
 author            : dms
 lang              : en
 timezone          : Asia/Jakarta
-show_downloads    : false
 encoding          : utf-8
 show_drafts       : false 
 future            : true
