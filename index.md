@@ -21,7 +21,15 @@ layout: default
     <ul>
       {% for post in tag[1] %}
         <li>
-          <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span> | <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+          <span class="post-separator">|</span>
+          <a href="{{ post.url | relative_url }}" class="post-link" title="{{ post.title }}">
+            {% if post.title.size > 70 %}
+              {{ post.title | truncate: 67 }}
+            {% else %}
+              {{ post.title }}
+            {% endif %}
+          </a>
         </li>
       {% endfor %}
     </ul>
