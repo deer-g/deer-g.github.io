@@ -20,6 +20,8 @@ layout: default
 
 {% for tag in site.tags %}
   <section>
+    ---
+    ---
     <h2>Tags {{ tag[0] }}:</h2>
     <ul>
       {% for post in tag[1] %}
