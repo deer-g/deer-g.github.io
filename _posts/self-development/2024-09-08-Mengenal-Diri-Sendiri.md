@@ -29,7 +29,7 @@ Nah, sekarang pertanyaannya: gimana caranya biar bisa kenal diri sendiri? Tenang
 
 Coba deh lu perhatiin kebiasaan lu sehari-hari. Mulai dari bangun tidur sampe mau bobo lagi. Lu suka ngapain? Apa yang bikin lu semangat? Apa yang bikin lu males? Tulis semua itu. Anggep aja lu lagi bikin diary, tapi bukan yang alay ya.
 
-Contohnya gini: "Hari ini gue bangun telat lagi. Anjir, kenapa ya gue selalu gini? Padahal kerjaan numpuk. Tapi pas liat notif dari grup gamers, langsung semangat 45 deh. Hmm, kayaknya gue emang lebih suka main game daripada kerja deh. Tapi gimana dong ya biar bisa balance?"
+Contohnya gini: "Hari ini gue bangun telat lagi. Kenapa ya gue selalu gini? Padahal kerjaan numpuk. Tapi pas liat notif dari grup gamers, langsung semangat 45 deh. Hmm, kayaknya gue emang lebih suka main game daripada kerja deh. Tapi gimana dong ya biar bisa balance?"
 
 ### 2. Tanya Temen Lu
 

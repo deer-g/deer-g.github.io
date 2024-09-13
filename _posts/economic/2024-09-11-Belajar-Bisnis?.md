@@ -3,7 +3,7 @@ title: "Belajar Bisnis: Kok Lu Masih Ragu-ragu Sih?"
 description: Opini tentang Belajar bisnis.
 tags: [Economic]
 ---
-Yo, apa kabar guys? Kali ini gue mau ngomongin soal belajar bisnis nih. Tau gak sih, banyak banget anak muda yang masih ragu-ragu buat mulai belajar bisnis. Padahal, anjir, ini tuh skill yang bener-bener penting buat masa depan lu pada!
+Yo, apa kabar guys? Kali ini gue mau ngomongin soal belajar bisnis nih. Tau gak sih, banyak banget anak muda yang masih ragu-ragu buat mulai belajar bisnis. Padahal guys, ini tuh skill yang bener-bener penting buat masa depan lu pada!
 
 ## Kenapa Sih Harus Belajar Bisnis?
 

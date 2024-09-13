@@ -2,7 +2,7 @@
 title: Kenapa Sih Harus Bikin Roadmap atau Rencana?
 tags: [Self Development]
 ---
-Yo, apa kabar? Lu pernah nggak sih tiba-tiba ngerasa hidup lu tuh kayak lagi nyetir mobil tanpa GPS? Bingung mau ke mana, jalanan macet, bensin abis, terus tiba-tiba ban bocor lagi. Anjir, stress banget kan? Nah, itulah yang bakal terjadi kalo lu nggak punya roadmap atau rencana dalam hidup. Jadi, hari ini gue mau ngasih tau lu kenapa bikin roadmap tuh penting banget. Siap-siap ya, bakal panjang nih, tapi gue janji bakal seru!
+Yo, apa kabar? Lu pernah nggak sih tiba-tiba ngerasa hidup lu tuh kayak lagi nyetir mobil tanpa GPS? Bingung mau ke mana, jalanan macet, bensin abis, terus tiba-tiba ban bocor lagi. Stress banget kan? Nah, itulah yang bakal terjadi kalo lu nggak punya roadmap atau rencana dalam hidup. Jadi, hari ini gue mau ngasih tau lu kenapa bikin roadmap tuh penting banget. Siap-siap ya, bakal panjang nih, tapi gue janji bakal seru!
 
 ## Emangnya Roadmap Apaan Sih?
 
@@ -34,7 +34,7 @@ Roadmap itu kayak filter. Dia bantuin lu milih mana yang penting dan mana yang b
 
 ### 4. Biar Lu Bisa Ngukur Progress
 
-Coba deh lu inget-inget. Kapan terakhir kali lu ngerasa bangga sama diri sendiri? Ngerasa kayak, "Anjir, gue keren banget dah!"
+Coba deh lu inget-inget. Kapan terakhir kali lu ngerasa bangga sama diri sendiri? Ngerasa kayak, "Gue keren banget dah!"
 
 Nah, dengan punya roadmap, lu bisa lebih sering ngerasain itu. Kenapa? Karena lu punya patokan buat ngukur progress lu. Tiap kali lu berhasil nyentang satu milestone di roadmap lu, itu tuh kayak lu naik level di game. Feelingnya? Mantep abis!
 
