@@ -18,7 +18,7 @@ Lu mungkin mikir, "Ah, ngapain ribet-ribet bikin roadmap? Hidup mah ngalir aja k
 
 Bayangin aja lu lagi naik kapal di tengah laut. Tiba-tiba nahkodanya ilang. Lu bisa apa? Paling cuma bisa berharap ombak bawa lu ke pulau terdekat. Kalo beruntung, ya lu selamat. Kalo nggak? Ya udah, bye-bye dunia. 
 
-Nah, hidup tanpa roadmap tuh persis kayak gitu. Lu cuma bisa berharap nasib baik nuntun lu ke tempat yang lu mau. Tapi kenyataannya? Hidup nggak sebaik itu bro. Lu harus jadi nahkoda buat hidup lu sendiri, dan roadmap itu kompas yang bakal nuntun lu.
+Nah, hidup tanpa roadmap tuh persis kayak gitu. Lu cuma bisa berharap nasib baik nuntun lu ke tempat yang lu mau. Tapi kenyataannya? Hidup nggak sebaik itu guys. Lu harus jadi nahkoda buat hidup lu sendiri, dan roadmap itu kompas yang bakal nuntun lu.
 
 ### 2. Biar Lu Nggak Cuma Jadi Penonton di Hidup Sendiri
 
@@ -66,7 +66,7 @@ Buat nyapai tujuan lu, pasti ada skill-skill tertentu yang harus lu kuasain. Nah
 
 ### 5. Antisipasi Rintangan
 
-Hidup nggak selalu mulus, bro. Pasti ada aja rintangannya. Coba pikirin kira-kira apa aja rintangan yang mungkin lu hadapi, terus siapin rencana cadangan.
+Hidup nggak selalu mulus, guys. Pasti ada aja rintangannya. Coba pikirin kira-kira apa aja rintangan yang mungkin lu hadapi, terus siapin rencana cadangan.
 
 ### 6. Fleksibel Tapi Konsisten
 
@@ -82,7 +82,7 @@ Ini mah bullshit banget. Justru orang sukses tuh jadi sukses karena mereka punya
 
 ### Mitos 2: Sekali Bikin Roadmap, Selesai Selamanya
 
-Nggak gitu juga kali. Hidup tuh dinamis, bro. Roadmap lu juga harus fleksibel. Jangan takut buat nge-revisi atau bahkan bikin ulang roadmap lu kalo emang perlu.
+Nggak gitu juga kali. Hidup tuh dinamis, guys. Roadmap lu juga harus fleksibel. Jangan takut buat nge-revisi atau bahkan bikin ulang roadmap lu kalo emang perlu.
 
 ### Mitos 3: Roadmap Bikin Hidup Jadi Kaku
 
@@ -132,7 +132,7 @@ Nah, ini pertanyaan penting nih. Karena, jujur aja, hidup tuh nggak selalu sesua
    Kalo emang perlu, jangan ragu buat nyesuaiin roadmap lu. Mundur deadline, ganti strategi, atau bahkan ubah tujuan kalo emang udah nggak relevan.
 
 4. Belajar dari Pengalaman
-   Tiap kegagalan itu pelajaran, bro. Analisis apa yang salah, terus pake pengalaman itu buat bikin roadmap yang lebih baik ke depannya.
+   Tiap kegagalan itu pelajaran, guys. Analisis apa yang salah, terus pake pengalaman itu buat bikin roadmap yang lebih baik ke depannya.
 
 5. Tetep Konsisten
    Yang paling penting, jangan nyerah. Kegagalan itu bagian dari proses. Tetep konsisten sama tujuan lu, meski kadang jalannya harus berubah.
@@ -151,6 +151,6 @@ Apapun pilihannya, yang penting mulai aja dulu. Karena perjalanan seribu mil itu
 
 Eh, btw, sebelum lu cabut. Inget ya, artikel ini cuma panduan umum doang. Gue bukan ahli psikologi atau life coach profesional. Jadi, jangan ditelan mentah-mentah. Tetep pake otak lu sendiri, baca-baca sumber lain, dan kalo perlu, konsultasi sama ahli yang beneran.
 
-Dan satu lagi, roadmap emang penting, tapi jangan sampe bikin lu jadi robot yang cuma bisa ngikutin rencana doang. Tetep nikmatin hidup, bro. Spontanitas itu penting juga. Jadi, bikin roadmap, tapi jangan lupa have fun juga ya!
+Dan satu lagi, roadmap emang penting, tapi jangan sampe bikin lu jadi robot yang cuma bisa ngikutin rencana doang. Tetep nikmatin hidup, guys. Spontanitas itu penting juga. Jadi, bikin roadmap, tapi jangan lupa have fun juga ya!
 
 Oke deh, segitu dulu dari gue. Semoga artikel ini bisa bantu lu buat mulai bikin roadmap dan ngejar mimpi-mimpi lu. Kalo ada yang mau ditanyain atau didiskusiin, jangan ragu buat share di kolom komentar ya. Good luck!

@@ -8,7 +8,7 @@ Mengenal diri sendiri tuh kadang bisa jadi misi yang lebih rumit daripada nyari 
 
 Mengenal diri sendiri tuh bukan cuma tentang tau nama lengkap atau nomor KTP lu doang. Ini lebih ke arah pemahaman mendalam tentang siapa lu sebenernya. Kayak main game RPG gitu deh, tapi karakternya ya lu sendiri. Lu harus tau skill, kelemahan, motivasi, dan bahkan 'quest' hidup lu.
 
-Tapi nih ya, proses ini gak semudah bikin Indomie. Lu gak bisa cuma baca buku self-help terus tiba-tiba jadi paham banget sama diri sendiri. Ini tuh perjalanan panjang, bro. Kadang lu bakal nemu jalan buntu, kadang malah nyasar. Tapi ya gitu deh, namanya juga petualangan!
+Tapi nih ya, proses ini gak semudah bikin Indomie. Lu gak bisa cuma baca buku self-help terus tiba-tiba jadi paham banget sama diri sendiri. Ini tuh perjalanan panjang, guys. Kadang lu bakal nemu jalan buntu, kadang malah nyasar. Tapi ya gitu deh, namanya juga petualangan!
 
 ## Kenapa Sih Kita Perlu Repot-repot Kenal Diri Sendiri?
 
@@ -29,7 +29,11 @@ Nah, sekarang pertanyaannya: gimana caranya biar bisa kenal diri sendiri? Tenang
 
 Coba deh lu perhatiin kebiasaan lu sehari-hari. Mulai dari bangun tidur sampe mau bobo lagi. Lu suka ngapain? Apa yang bikin lu semangat? Apa yang bikin lu males? Tulis semua itu. Anggep aja lu lagi bikin diary, tapi bukan yang alay ya.
 
+<<<<<<< HEAD
 Contohnya gini: "Hari ini gue bangun telat lagi. Kenapa ya gue selalu gini? Padahal kerjaan numpuk. Tapi pas liat notif dari grup gamers, langsung semangat 45 deh. Hmm, kayaknya gue emang lebih suka main game daripada kerja deh. Tapi gimana dong ya biar bisa balance?"
+=======
+Contohnya gini: "Hari ini gue bangun telat lagi. Kenapa ya gue selalu gini ya? Padahal kerjaan numpuk. Tapi pas liat notif dari grup gamers, langsung semangat 45 deh. Hmm, kayaknya gue emang lebih suka main game daripada kerja deh. Tapi gimana dong ya biar bisa balance?"
+>>>>>>> 2ed0d90 (delete draft & rewrite post)
 
 ### 2. Tanya Temen Lu
 

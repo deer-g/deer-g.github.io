@@ -78,7 +78,7 @@ Terakhir, tapi gak kalah penting, luangkan waktu buat refleksi diri. Evaluasi ap
 
 Nah, pasti ada yang mikir gini kan? "Wah, kayaknya mahal nih investasi ke diri sendiri. Gue kan anak kos, duit jajan aja pas-pasan!"
 
-Eits, tenang dulu bro! Investasi ke diri sendiri tuh gak harus mahal-mahal. Banyak kok cara yang bisa lu lakuin tanpa harus ngeluarin duit banyak:
+Eits, tenang dulu guys! Investasi ke diri sendiri tuh gak harus mahal-mahal. Banyak kok cara yang bisa lu lakuin tanpa harus ngeluarin duit banyak:
 
 1. **Manfaatin Sumber Belajar Gratis**: Ada banyak platform online yang nyediain course gratis. Coursera, edX, Khan Academy, coba deh browsing!
 

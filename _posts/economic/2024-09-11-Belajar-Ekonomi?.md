@@ -3,7 +3,11 @@ title: "Belajar Ekonomi: Dari Nol Sampe Jago, Ala Anak Naif"
 description: Opini tentang Belajar Ekonomi.
 tags: [Economic]
 ---
+<<<<<<< HEAD
 Yo, apa kabar guys? Udah pada makan belom nih? Kalo belom, mending lu makan dulu deh. Soalnya kita bakal ngomongin yang agak berat nih. Yap, kita bakal ngebahas tentang belajar ekonomi. Eits, jangan kabur dulu! Gue tau lu pasti mikir, "Ekonomi? Males banget dah." Tapi tenang aja, gue bakal jelasin pake bahasa yang gampang dicerna, kayak lu lagi ngobrol sama temen lu sendiri. So, let's get it!
+=======
+Yo, apa kabar guys? Udah pada makan belom nih? Kalo belom, mending lu makan dulu deh. Soalnya kita bakal ngomongin yang agak berat nih. Yap, kita bakal ngebahas tentang belajar ekonomi. Eits, jangan kabur dulu! Gue tau lu pasti mikir, "Hah, ekonomi? Males banget dah." Tapi tenang aja, gue bakal jelasin pake bahasa yang gampang dicerna, kayak lu lagi ngobrol sama temen lu sendiri. So, let's get it!
+>>>>>>> 2ed0d90 (delete draft & rewrite post)
 
 ## Kenapa Sih Harus Belajar Ekonomi?
 
