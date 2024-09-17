@@ -1,11 +1,9 @@
 remote_theme      : pages-themes/hacker@v0.2.0
 plugins           : [jekyll-remote-theme, jekyll-feed]
 
-title             : dms-g
-description       : just human with nothing to do
+title             : ncdeez
 author            : dms
-lang              : en
-timezone          : Asia/Jakarta
+lang              : en-US
 encoding          : utf-8
 show_drafts       : false 
 future            : true
