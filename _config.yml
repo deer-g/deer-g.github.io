@@ -1,9 +1,10 @@
 remote_theme      : pages-themes/hacker@v0.2.0
 plugins           : [jekyll-remote-theme, jekyll-feed]
 
-title             : ncdeez
-author            : dms
-lang              : en-US
+
+title             : deer-g
+author            : deer?
+lang              : en
 encoding          : utf-8
 show_drafts       : false 
 future            : true
