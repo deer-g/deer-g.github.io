@@ -26,19 +26,19 @@ Dengan spesialisasi, lu bisa:
 
 Nah, sekarang lu pasti penasaran kan gimana caranya mulai? Tenang, gw kasih tau step-by-stepnya:
 
-1. **Pilih bidang yang lu suka**
+1. **Pilih bidang yang lu suka:**
    Mau fokus ke web security? Mobile app? IoT? Blockchain? Banyak pilihan bro!
 
-2. **Belajar, belajar, dan belajar**
+2. **Belajar, belajar, dan belajar:**
    Ini gak ada shortcut-nya. Lu mesti baca buku, ikut course online, nonton video tutorial. Pokoknya serap ilmu sebanyak-banyaknya.
 
-3. **Latihan di platform CTF**
+3. **Latihan di platform CTF:**
    Capture The Flag (CTF) itu kayak gym buat otak hacker lu. Sering-sering latihan di sini.
 
-4. **Ikutan bug bounty program**
+4. **Ikutan bug bounty program:**
    Nah, ini nih yang bisa bikin kantong tebel. Banyak perusahaan yang ngasih hadiah gede buat yang bisa nemuin bug di sistem mereka.
 
-5. **Jalin koneksi**
+5. **Jalin koneksi:**
    Join komunitas bug hunter, ikut conference, share pengalaman. Intinya, jangan jadi lone wolf.
 
 ## Tantangan yang Bakal Lu Hadapi
