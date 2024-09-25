@@ -26,35 +26,35 @@ Dengan spesialisasi, lu bisa:
 
 Nah, sekarang lu pasti penasaran kan gimana caranya mulai? Tenang, gw kasih tau step-by-stepnya:
 
-1. **Pilih bidang yang lu suka:**
+1. **Pilih bidang yang lu suka**:
    Mau fokus ke web security? Mobile app? IoT? Blockchain? Banyak pilihan bro!
 
-2. **Belajar, belajar, dan belajar:**
+2. **Belajar, belajar, dan belajar**:
    Ini gak ada shortcut-nya. Lu mesti baca buku, ikut course online, nonton video tutorial. Pokoknya serap ilmu sebanyak-banyaknya.
 
-3. **Latihan di platform CTF:**
+3. **Latihan di platform CTF**:
    Capture The Flag (CTF) itu kayak gym buat otak hacker lu. Sering-sering latihan di sini.
 
-4. **Ikutan bug bounty program:**
+4. **Ikutan bug bounty program**:
    Nah, ini nih yang bisa bikin kantong tebel. Banyak perusahaan yang ngasih hadiah gede buat yang bisa nemuin bug di sistem mereka.
 
-5. **Jalin koneksi:**
+5. **Jalin koneksi**:
    Join komunitas bug hunter, ikut conference, share pengalaman. Intinya, jangan jadi lone wolf.
 
 ## Tantangan yang Bakal Lu Hadapi
 
 Eits, jangan pikir jalan menuju sukses itu mulus ya. Ada aja rintangannya:
 
-1. **Burnout**
+1. **Burnout**:
    Kadang lu bisa frustrasi kalo gak nemuin bug dalam waktu lama. Sabar bro, namanya juga proses.
 
-2. **Kompetisi yang ketat**
+2. **Kompetisi yang ketat**:
    Banyak bug hunter lain yang jago-jago. Tapi inget, gak usah takut sama kompetisi. Jadiin itu motivasi buat jadi lebih baik.
 
-3. **Teknologi yang terus berubah**
+3. **Teknologi yang terus berubah**:
    Lu mesti terus update ilmu. Kalo gak, bisa ketinggalan.
 
-4. **Etika dan legalitas**
+4. **Etika dan legalitas**:
    Kadang batasannya tipis antara white hat dan black hat hacking. Jadi, selalu inget etika ya!
 
 ## Mitos vs Fakta
@@ -74,16 +74,16 @@ Banyak mitos yang beredar tentang bug hunting. Yuk kita klarifikasi:
 
 Nah, kira-kira gimana ya masa depan bug hunting? Gw kasih bocoran nih:
 
-1. **AI bakal makin berperan**
+1. **AI bakal makin berperan**:
    Tapi tenang, AI gak bakal gantiin bug hunter. Justru bakal jadi tool yang ngebantu kita.
 
-2. **IoT dan smart device bakal jadi target utama**
+2. **IoT dan smart device bakal jadi target utama**:
    Makin banyak device yang terkoneksi, makin banyak celah keamanan.
 
-3. **Bug bounty bakal makin gede**
+3. **Bug bounty bakal makin gede**:
    Perusahaan makin sadar pentingnya keamanan. Artinya, reward buat bug hunter juga bakal naik.
 
-4. **Spesialisasi bakal makin penting**
+4. **Spesialisasi bakal makin penting**:
    Dengan teknologi yang makin kompleks, kebutuhan akan spesialis di bidang tertentu bakal makin tinggi.
 
 ## Kesimpulan
